@@ -1,0 +1,19 @@
+{
+  "name": "yrs",
+  "version": "0.0.1",
+  "description": "Unofficial NPM module for Young Rewired State!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/yrs.git"
+  },
+  "author": "Monty Anderson <monty.linux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montyanderson/yrs/issues"
+  },
+  "homepage": "https://github.com/montyanderson/yrs#readme"
+}
