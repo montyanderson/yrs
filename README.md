@@ -1,12 +1,12 @@
-# yrs
+# yrs-countdown
 Unofficial NPM module for Young Rewired State!
 
 ``` bash
-npm install yrs
+npm install yrs-countdown
 ```
 
 ``` javascript
-var yrs = require("yrs");
+var yrs = require("yrs-countdown");
 
 console.log("How long until Young Rewired State 2015?");
 console.log("Seconds: " + yrs().seconds);

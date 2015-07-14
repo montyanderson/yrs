@@ -1,5 +1,5 @@
 {
-  "name": "yrs",
+  "name": "yrs-countdown",
   "version": "0.0.1",
   "description": "Unofficial NPM module for Young Rewired State!",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/montyanderson/yrs.git"
+    "url": "git+https://github.com/montyanderson/yrs-countdown.git"
   },
   "author": "Monty Anderson <monty.linux@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/montyanderson/yrs/issues"
+    "url": "https://github.com/montyanderson/yrs-countdown/issues"
   },
-  "homepage": "https://github.com/montyanderson/yrs#readme"
+  "homepage": "https://github.com/montyanderson/yrs-countdown#readme"
 }
