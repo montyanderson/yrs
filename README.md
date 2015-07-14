@@ -1,6 +1,6 @@
 # yrs-countdown
 
-[![npm](https://img.shields.io/npm/v/yrs-countdown.svg)](https://www.npmjs.com/package/yrs-countdown)
+[![npm](https://img.shields.io/npm/v/yrs-countdown.svg)](https://www.npmjs.com/package/yrs-countdown) [![Build Status](https://travis-ci.org/montyanderson/yrs-countdown.svg)](https://travis-ci.org/montyanderson/yrs-countdown)
 
 Unofficial NPM module for Young Rewired State!
 
