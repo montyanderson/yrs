@@ -4,7 +4,7 @@
   "description": "Unofficial NPM module for Young Rewired State!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js || io test.js"
   },
   "repository": {
     "type": "git",
