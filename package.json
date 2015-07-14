@@ -1,6 +1,6 @@
 {
   "name": "yrs-countdown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unofficial NPM module for Young Rewired State!",
   "main": "index.js",
   "scripts": {
